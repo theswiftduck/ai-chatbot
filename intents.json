@@ -1,0 +1,26 @@
+{"intents": [
+    {"tag": "greetings",
+    "patterns": ["hello", "hey", "hi", "goo day", "Greetings", "what's up", "how is it going"],
+    "responses": ["Hello!", "Hey!", "What can I do for you"]
+},
+    {"tag": "goodbye",
+    "patterns": ["cya", "See you later", "Goodbye", "I'm leaving", "Have a good day", "bye", "cao", "see ya"],
+    "responses": ["It's sad to hear that. See you next time"]
+},
+    {"tag": "age",
+    "patterns": ["how old", "how old are you", "what is your age", "age?", "are you uncle?", "what's up"],
+    "responses": ["I'm 3 days old. almost 1 year but still not"]
+},
+    {"tag": "name",
+    "patterns": ["what's your name", "what should I call you", "whats your name", "who are you", "Can you tell me who you are", "what is your name"],
+    "responses": ["Hello!", "Hey!", "You can call me DUMBASS. That's my name"]
+},
+    {"tag": "shop",
+    "patterns": ["I'd like to buy something", "what are your products?", "what do you recommend?", "what are you selling"],
+    "responses": ["We have drugs, and some free porn that I believed you guys would like it so much"]
+},
+    {"tag": "hours",
+    "patterns": ["when are you guys open", "what are your hours", "hours of open", "when it is closed"],
+    "responses": ["We are operating at 24/7."]
+}
+]}
